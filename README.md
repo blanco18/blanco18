@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blanco18
+- 👋 Hi, I’m Bryan Blanco
 - 👀 I’m interested in switching from system adminstrator to junior python devop
 - 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate with other python developers in my journey in reaching my goal into being a junior and then full python developer
